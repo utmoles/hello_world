@@ -4,3 +4,4 @@ Markdown is a lightweight markup language that you can use to add formatting ele
 
 - list element 1
 - list element 2
+- list element 3
